@@ -1,0 +1,5 @@
+	[Desktop Entry]
+	Name=Minecraft Launcher(TLauncher)
+	Exec=java -jar /usr/bin/local/tl/TLauncher-2.75.jar
+	Type=Application
+	Categories=GTK;GNOME;Games;
