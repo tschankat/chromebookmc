@@ -1,5 +1,7 @@
-	[Desktop Entry]
-	Name=Minecraft Launcher(TLauncher)
-	Exec=java -jar /usr/bin/local/tl/TLauncher-2.75.jar
-	Type=Application
-	Categories=GTK;GNOME;Games;
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Minecraft Launcher
+Comment=TLauncher, Installed by TheFinalWillow
+Exec=tl.sh
+Terminal=true
